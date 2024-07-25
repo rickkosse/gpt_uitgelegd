@@ -43,6 +43,3 @@ Het notebook bevat stappen om:
 
 ## Bijdragen
 Bijdragen zijn welkom! Open een issue of dien een pull request in met je verbeteringen of suggesties.
-
-## Licentie
-Dit project is gelicenseerd onder de MIT Licentie. Zie het [LICENSE](LICENSE) bestand voor details.
