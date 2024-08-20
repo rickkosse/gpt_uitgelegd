@@ -32,7 +32,7 @@ Dit project toont hoe je een GPT-model kunt maken en trainen met PyTorch, gebrui
 3. Volg de instructies in het notebook om data te preprocessen, het model te definiëren en te trainen.
 
 ## Dataset
-De dataset moet een tekstbestand zijn met de data waarop je het model wilt trainen. Plaats je dataset in de repository map en update het notebook om naar je datasetbestand te verwijzen.
+De dataset moet een tekstbestand zijn met de data waarop je het model wilt trainen. Plaats je dataset in de repository map en update het notebook om naar je datasetbestand te verwijzen. In deze tutorial gebruiken we het ted_dutch_mono.nl bestand. Dit zijn uitgeschreven TED talks in het Nederlands.
 
 ## Modeltraining
 Het notebook bevat stappen om:
